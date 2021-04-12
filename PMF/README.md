@@ -1,6 +1,4 @@
-##Probabilistic Matrix Factorization
-
-2020223045193  叶雅旋
+## Probabilistic Matrix Factorization
 
 The code is implemented based on the following paper:
 
